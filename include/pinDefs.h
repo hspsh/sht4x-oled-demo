@@ -6,5 +6,8 @@
     const int PIN_BUTTON_1 = 14;
     const int PIN_BUTTON_2 = 13;
     const int PIN_BUTTON_3 = 12;
+
+    const int PIN_VBAT = 3;
+
 #endif // TRITON_BOARD
 
